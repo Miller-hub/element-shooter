@@ -12,6 +12,6 @@ plugins: [react()],
 
 // ⚠️ 關鍵修正：這一行告訴 Vite 網站在 GitHub Pages 的子路徑在哪裡
 
-base: '/element-shooter/',
+base: '/',
 
 })
